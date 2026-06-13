@@ -41,7 +41,7 @@ Java
 Spring Boot – para construção da API REST
 Spring Data JPA – para persistência de dados
 Hibernate – como ORM
-Banco de dados relacional (ex: H2/MySQL)
+Banco de dados relacional H2 (Banco em memória)
 Maven – gerenciamento de dependências
 
 O objetivo foi utilizar uma stack amplamente adotada no mercado para praticar conceitos fundamentais de backend com Java.
