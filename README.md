@@ -14,6 +14,8 @@ As instruções utilizadas como base estão disponíveis no repositório oficial
 
 Essas são consideradas as **instruções essenciais** do desafio, que propõem a construção de uma API de pagamentos simplificada.
 
+Lembrando que trata-se de um desafio antigo e que não é funcional hoje em dia. O repositório que contem o desafio foi encontrado no youtube.
+
 O objetivo principal é simular o funcionamento básico de uma plataforma de transferência de dinheiro entre usuários, inspirada no PicPay.
 
 ---
