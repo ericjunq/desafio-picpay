@@ -33,7 +33,7 @@ Segundo o desafio, o sistema representa um **PicPay simplificado**, onde usuári
 
 ---
 
-🛠️ Stack utilizada
+## 🛠️ Stack utilizada
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
