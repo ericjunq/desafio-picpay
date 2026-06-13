@@ -33,6 +33,21 @@ Segundo o desafio, o sistema representa um **PicPay simplificado**, onde usuári
 
 ---
 
+🛠️ Stack utilizada
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+Java
+Spring Boot – para construção da API REST
+Spring Data JPA – para persistência de dados
+Hibernate – como ORM
+Banco de dados relacional (ex: H2/MySQL)
+Maven – gerenciamento de dependências
+
+O objetivo foi utilizar uma stack amplamente adotada no mercado para praticar conceitos fundamentais de backend com Java.
+
+---
+
 ## 🧾 Regras de negócio
 
 As principais regras propostas pelo desafio são:
